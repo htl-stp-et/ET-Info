@@ -1,5 +1,5 @@
-title: "LeTTo Doc"
-description: "HowTo's für den LeTTo-Server"
+title: "ET Wiki"
+description: "HowTo's für die HTL-St.Pölten Elektrotechnik"
 
 # Jekyll-Plugins (Gems)
 plugins:
@@ -12,5 +12,5 @@ plugins:
 
 # Konfiguration für die Suchfunktion (einfaches Suchplugin)
 search:
-  json: "/search.json"  # Pfad zur Suchdatei
+  json: "/search.json"     # Pfad zur Suchdatei
   files: [".md", ".html"]  # Welche Dateitypen durchsucht werden sollen
