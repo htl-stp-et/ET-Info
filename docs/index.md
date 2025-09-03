@@ -1,4 +1,4 @@
-# Übersicht
+# ET-Wiki
 ## Netzwerk 
 * öffentliche Server
   * [HTL St.Pölten](https://www.htlstp.ac.at/)
