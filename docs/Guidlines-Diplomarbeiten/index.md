@@ -4,18 +4,19 @@
 ### Termin
 Es gilt sowohl für das gebundene, als auch für die digitale Abgabe des selbe Datum. Die online Abgabe ist bis 23:59 Uhr möglich, wobei empfohlen wird, aufgrund der Serverkapazitäten etwas früher abzugeben. Die Abgabe der gebundenen Arbeit ('''ein''' Exemplar) muss bis 16:40 Uhr des Abgabetages erfolgen.
 
-=== Datenbank ===
+### Datenbank 
 PDF mit maximal 20 MB (komprimieren!)
-https://diplomarbeiten.berufsbildendeschulen.at/Account/Login
 
-=== Gebundene Arbeit ===
-'''ein''' gebundenes Buch mit gestaltetem Umschlag (siehe unten)
+### Gebundene Arbeit
+**ein** gebundenes Buch mit gestaltetem Umschlag (siehe unten)
 
-== Gesetzliche Grundlage<ref name="Pruefungsordnung">[https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20007846 ''Gesamte Rechtsvorschrift für Prüfungsordnung BMHS''] Rechtsinformationssystem des Bundes (RIS). Abgerufen am 7. April 2022.</ref> ==
+## Gesetzliche Grundlage
 
-Die '''Gesamte Rechtsvorschrift für Prüfungsordnung BMHS'''<ref name="Pruefungsordnung" /> verlangt folgende Abläufe und Abgaben:<br>
+[**Gesamte Rechtsvorschrift für Prüfungsordnung BMHS**](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20007846) Rechtsinformationssystem des Bundes (RIS). Abgerufen am 7. April 2022.
 
-'''Durchführung der abschließenden Arbeit'''
+Die **Gesamte Rechtsvorschrift für Prüfungsordnung BMHS** verlangt folgende Abläufe und Abgaben:<br>
+
+**Durchführung der abschließenden Arbeit**
 § 9. (1) Die schriftliche Arbeit (einschließlich allfälliger praktischer und/oder grafischer Arbeiten) ist als '''selbstständige Arbeit außerhalb der Unterrichtszeit''' zu bearbeiten und anzufertigen, wobei '''Ergebnisse des Unterrichts mit einbezogen''' werden dürfen. (...)
 (2) Die Erstellung der Arbeit ist in einem von der Prüfungskandidatin oder vom Prüfungskandidaten zu erstellenden '''Begleitprotokoll''' zu dokumentieren, welches jedenfalls den Arbeitsablauf sowie die verwendeten Hilfsmittel und Hilfestellungen anzuführen hat. Das Begleitprotokoll ist der schriftlichen Arbeit beizulegen.
 (3) Im Rahmen der Betreuung sind von der Prüferin oder vom Prüfer die für die Dokumentation der Arbeit erforderlichen Aufzeichnungen, insbesondere '''Vermerke über die Durchführung von Gesprächen''' im Zuge der Betreuung der Arbeit, zu führen. Die Aufzeichnungen sind dem Prüfungsprotokoll anzuschließen.
