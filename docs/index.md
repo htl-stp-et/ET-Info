@@ -1,45 +1,27 @@
-
-# Links
-* ET - Wiki alt : [https://letto.htlstp.ac.at/wiki/index.php/Hauptseite](https://wiki.letto.at/wiki/index.php/Hauptseite)
-* ET - Homepage: [https://www.htlstp.ac.at/abteilungen/elektrotechnik](https://www.htlstp.ac.at/abteilungen/elektrotechnik)
-* LeTTo: [https://letto.htlstp.ac.at](https://letto.htlstp.ac.at/lettohtlstp/)
-* LeTTo-App: [https://build.letto.at/app/index.html](https://build.letto.at/app/index.html)
-
-# News
-[Neuigkeiten](./Neuigkeiten/index.md)
-
-# [HowTo](./howto/index.md)
-* [Administrative HowTo's](./howto/admin/index.md)<br>
-
-
 # Übersicht
 ## Netzwerk 
 * öffentliche Server
-  * [[LeTTo]] Lernplattform [https://letto.htlstp.ac.at/letto https://letto.htlstp.ac.at/lettohtlstp](https://letto.htlstp.ac.at/letto https://letto.htlstp.ac.at/lettohtlstp)
-  * altes Wiki der Abteilung <span class="blank">[https://letto.htlstp.ac.at/wiki](https://letto.htlstp.ac.at/wiki)</span>
-  * Klassenbuch [https://erato.webuntis.com/WebUntis](https://erato.webuntis.com/WebUntis) 
-  * Sharepoint-Server [https://htlstp.sharepoint.com/SitePages/Home.aspx](https://htlstp.sharepoint.com/SitePages/Home.aspx)
+  * [HTL St.Pölten](https://www.htlstp.ac.at/)
+  * [ET - Homepage](https://www.htlstp.ac.at/abteilungen/elektrotechnik)
+  * [LeTTo HTL-St.Pölten](https://letto.htlstp.ac.at/lettohtlstp)
+  * [LeTTo APP](https://build.letto.at/app/index.html)
+  * [Klassenbuch Webuntis](https://erato.webuntis.com/WebUntis) 
+  * [Sharepoint-Server](https://htlstp.sharepoint.com/SitePages/Home.aspx)
 * LAN-Login
 * LAN-Server
 * Datenblätter
 * Klassenbuch-PC
-* [[Drucken]]
+* Drucken
 
 ## Labor
 [[Laborordnung]]
 
-= Links =
-* [HTL St.Pölten](https://www.htlstp.ac.at/)
-* [HTL Elektrotechnik](https://www.htlstp.ac.at/abteilungen/elektrotechnik)
-* [Klassebuch WebUntis](https://erato.webuntis.com/WebUntis)
-* [LeTTo Server](https://letto.htlstp.ac.at/lettohtlstp)
-* [LeTTo app](https://build.letto.at/app/index.html)
-* [Sharepoint](https://htlstp.sharepoint.com/SitePages/Home.aspx)
-* [LeTTo Homepage](https://www.letto.at/cms)
+# Links
+* [LeTTo Homepage](https://letto.at/wordpress/)
 * [LeTTo Wiki alt](https://letto.at/mediawiki/index.php?title=Hauptseite)
 * [LeTTo Wiki](https://doc.letto.at/)
 * [LeTTo YouTube Channel](https://www.youtube.com/@letto-mint)
-* [HTL-ET GitHub]()
+* [HTL-ET GitHub](https://github.com/htl-stp-et)
 
 # Software
 * [[Matlab/Simulink]]
