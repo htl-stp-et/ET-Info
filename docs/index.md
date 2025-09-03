@@ -14,7 +14,7 @@
 * Drucken
 
 ## Labor
-[[Laborordnung]]
+[Laborordnung](./Laborordnung/index.md)
 
 # Links
 * [LeTTo Homepage](https://letto.at/wordpress/)
@@ -24,36 +24,33 @@
 * [HTL-ET GitHub](https://github.com/htl-stp-et)
 
 # Software
-* [[Matlab/Simulink]]
-* [[Eclipse]]
-* [[Proteus]]
-* [[Autodesk]]
-* [[Maxima]]
-* [[Tex]]
-* [[Ubuntu]]
-* [[Webserver]]
-* [[Lenze Automation]]
-* [[EPLAN]]
-* [[Office 365]]
+* [Matlab/Simulink](./Matlab-Simulink/index.md)
+* [Eclipse NXJ für Lego Mindstorms NXT](https://letto.htlstp.ac.at/public/download/eclipse/eclipse-lego-32bit.7z)
+* Proteus
+* [Autodesk](./Autodesk/index.md)
+* [3D-Druck allgemein](./3D-Druck-allgemein/index.md)
+* [Lenze Automation](./Lenze-Automation/index.md)
+* [EPLAN](./EPLAN/index.md)
+* [Office 365](./Office-365/index.md)
+
+# Download Software
+* [Maxima](https://maxima.sourceforge.io/download.html)
 
 # Schul- und Abteilungsorganisation
-* [[ET-Racing Team]]
+* [ET-Racing Team](./ET-Racing-Team/index.md)
 
 # Vorlagen
 Hier sind diverse Vorlagen zu finden und beschrieben. Sie werden über GitHub verwaltet und aktuell gehalten:
 
-# [[Diplomarbeitsvorlage]]
+# Diplomarbeitsvorlage
   Direkte Links zu GitHub:
+* [Diplomarbeitsvorlage](https://github.com/HTBLuVA-St-Polten-Elektrotechnik/Diplomarbeiten)
 * [Labor-Protokoll](https://github.com/HTBLuVA-St-Polten-Elektrotechnik/Labor-Protokoll)
 * [CPE-Dokumentation](https://github.com/HTBLuVA-St-Polten-Elektrotechnik/CPE-Doku)
 
-= Diplomarbeiten =
-* [Diplomarbeitsdatenbank](https://diplomarbeiten.berufsbildendeschulen.at/Account/Login)
-* [[Ausfüllhilfe Diplomarbeitsdatenbank]]
-* [[Diplomarbeitsvorlage]]
-  Ab der Abgabe der Arbeiten vom Schuljahr 2022/23 gilt folgendes Prozedere:
-* [[Guideline zum Abgabeprozedere und dem Format der Arbeit]]
-* [[Präsentation und Prüfung zur Arbeit]]
+# Diplomarbeiten 
+* [Guideline zum Abgabeprozedere und dem Format der Arbeit](./Guidlines-Diplomarbeiten/index.md)
+* [Präsentation und Prüfung zur Arbeit](./Diplomarbeit-Pruefung/index.md)
 
 # Tag der offenen Tür 
 * [OneNote Tag der offenen Tür](https://htlstp-my.sharepoint.com/personal/thomas_mayer_htlstp_at/_layouts/15/Doc.aspx?sourcedoc={5e1e91ca-536d-4ed6-a4a7-e4081960f4ce}&action=edit&wd=target%28_Inhaltsbibliothek%2F2019.one%7Ccf2a0648-c9a3-4193-8675-9a2545bc83e0%2FKurzfassungen%20%5C%2F%20Projektbeschreibungen%20Theorie%20%2B%20Labors%7Cfe5061cf-0705-4fd6-bc46-a06421133517%2F%29)
