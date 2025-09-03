@@ -12,5 +12,5 @@ plugins:
 
 # Konfiguration für die Suchfunktion (einfaches Suchplugin)
 search:
-  json: "/search.json"     # Pfad zur Suchdatei
+  json: "/ET-Info/search.json"     # Pfad zur Suchdatei
   files: [".md", ".html"]  # Welche Dateitypen durchsucht werden sollen
