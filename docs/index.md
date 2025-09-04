@@ -31,7 +31,7 @@
 * [3D-Druck allgemein](./3D-Druck-allgemein/index.md)
 * [Lenze Automation](./Lenze-Automation/index.md)
 * [EPLAN](./EPLAN/index.md)
-* [Office 365](./Office-365/index.md)
+* [Office 365](./Office365/index.md)
 
 # Download Software
 * [Maxima](https://maxima.sourceforge.io/download.html)
