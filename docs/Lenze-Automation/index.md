@@ -3,7 +3,7 @@
 ## Installations-Images im lokalen Netzwerk
 
 <pre>
-\\10.32.1.20\daten\daten\software\Lizenz-SW\Lenze
+//10.32.1.20/daten/daten/software/Lizenz-SW/Lenze
 </pre>
 * Benutzer: htl
 * Passwort: htl
