@@ -40,12 +40,12 @@ Die Installation muss nicht notwendigerweise über Internet erfolgen. Es können
 
 ## Installations-Images im lokalen Netzwerk 
 <pre>
-\\10.32.1.20\daten\daten\software\Lizenz-SW\Matlab\R2018bDiskImages
+//10.32.1.20/daten/daten/software/Lizenz-SW/Matlab/R2018bDiskImages
 </pre>
 * Benutzer: htl
 * Passwort: htl
 * Die beide ISO-Images auf die lokale Festplatte kopieren und dann von dort das erste ISO-Image durch Doppelklick im Explorer öffnen
-* Installation mit '''setup''' starten
+* Installation mit **setup** starten
   * Lizenz Online über Account
   * Packete auswählen (im Zweifelsfall alle)
 * Wechseln der DVD im Explorer wenn das Setup-Programm dazu auffordert
@@ -66,11 +66,11 @@ Die Installation muss nicht notwendigerweise über Internet erfolgen. Es können
 * Im Explorer verbinden mit \\10.32.1.20\daten (Benutzer: htl, Passwort: htl)
 * Installation in der Windows-Commandline (cmd)
 <pre>
-mkdir c:\tmp
-rmdir /S /Q c:\tmp\matlab
-mkdir c:\tmp\matlab
-xcopy /E /S /H /Y \\10.32.1.20\daten\daten\software\Lizenz-SW\Matlab\Packages\arduino\* c:\tmp\matlab
-"C:\Program Files\MATLAB\R2018b\bin\win64\install_supportsoftware.exe" -archives c:\tmp\matlab
+mkdir c:\\tmp
+rmdir /S /Q c:\\tmp\\matlab
+mkdir c:\\tmp\\matlab
+xcopy /E /S /H /Y \\\\10.32.1.20\\daten\\daten\\software\\Lizenz-SW\\Matlab\\Packages\\arduino\\* c:\\tmp\\matlab
+"C:\\Program Files\\MATLAB\\R2018b\\bin\\win64\\install_supportsoftware.exe" -archives c:\\tmp\\matlab
 
 </pre>
 * Nun sollte in einem Matlab-Login-Fenster nach einem gültigen Login gefragt werden
@@ -78,5 +78,5 @@ xcopy /E /S /H /Y \\10.32.1.20\daten\daten\software\Lizenz-SW\Matlab\Packages\ar
 * am Ende der Installation könnte noch das '''Setup''' der Arduino Hardware gestartet werden. Dies hat nur einen Sinn wenn man eine Arduino-Hardware zur Verfügung hat die konfiguriert werden soll.
 * Nach erfolgreicher Installation kann das temporäre Installationsverzeichnis wieder gelöscht werden
 <pre>
-rmdir /S /Q c:\tmp\matlab
+rmdir /S /Q c:\\tmp\\matlab
 </pre>
