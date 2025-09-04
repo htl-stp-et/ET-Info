@@ -48,6 +48,6 @@ Zudem bietet Inventor selbst ein sehr gut aufgebautes Tutorial (Lernpfad) für d
 Die Vorlage eines Zeichnungsblattes mit HTL-Schriftkopf ist im SVN/et-Repository 
 svn://letto.htlstp.ac.at/et/cad/inventor/HTL_Zeichnungsblatt_v19.dwg bzw. unter
 [Teams-Sharepoint](https://htlstp.sharepoint.com/:u:/t/Autodesk/EUp4QVG1_O1Bqus3BRei4_QByb-bT3gVL_5bVKt9ldSTbQ?e=qxyifu) zufinden.
-Inventor-Vorlagen sind in Windows unter **C:\Users\Public\Documents\Autodesk\Inventor 2019\Templates** abgelegt.
+Inventor-Vorlagen sind in Windows unter **C:\\Users\\Public\\Documents\\Autodesk\\Inventor 2019\\Templates** abgelegt.
 
 Zur Realisierung von 3D-Objekten mittels 3D-Druckern sind [hier](../3D-Druck-allgemein/index.md) einige Informationen zusammengefasst.
