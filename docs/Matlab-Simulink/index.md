@@ -63,7 +63,7 @@ Die Installation muss nicht notwendigerweise über Internet erfolgen. Es können
 
 # Installation von Hardware-Support-Packages 
 ### Arduino Simulink im Schulnetzwerk 
-* Im Explorer verbinden mit \\10.32.1.20\daten (Benutzer: htl, Passwort: htl)
+* Im Explorer verbinden mit //10.32.1.20/daten (Benutzer: htl, Passwort: htl)
 * Installation in der Windows-Commandline (cmd)
 <pre>
 mkdir c:\\tmp
