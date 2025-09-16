@@ -27,7 +27,7 @@
 * [Matlab/Simulink](./Matlab-Simulink/index.md)
 * [Eclipse NXJ für Lego Mindstorms NXT](https://letto.htlstp.ac.at/public/download/eclipse/eclipse-lego-32bit.7z)
 * Proteus -> Im Teams "ET-Lehrer" unter Dateien-Software oder am Sharepoint-Server [https://htlstp.sharepoint.com/sites/ET-EDV](https://htlstp.sharepoint.com/sites/ET-EDV)
-* SPLAN -> Im Teams "ET-Lehrer" unter Dateien -> Software
+* SPLAN -> Im Teams "ET-Lehrer" unter Dateien-Software oder am Sharepoint-Server [https://htlstp.sharepoint.com/sites/ET-EDV](https://htlstp.sharepoint.com/sites/ET-EDV)
 * [Autodesk](./Autodesk/index.md)
 * [3D-Druck allgemein](./3D-Druck-allgemein/index.md)
 * [Lenze Automation](./Lenze-Automation/index.md)
