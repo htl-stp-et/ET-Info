@@ -11,7 +11,7 @@ Lizenzinformation übermittelt welche im Zuge der Installation bzw. beim ersten 
 Jedem Schüler bzw. jeder Schülerin werden Lizenzen von den Lehrpersonen zugewiesen. Dazu bekomm ihr dann auch ein Email an die Schul-Mailadresse.
 
 Mit dem Beginn des Schuljahres 2021/22 wurde zudem das Lizenzmodell für Bildungseinrichtungen grundlegend geändert. 
-Jede registierte Lehrkraft kann nun direkt Klassen/Schülern eine Lizenz zuweisen (bis zu 125 je Produkt) 
+Jede registierte Lehrkraft kann nun direkt Klassen/Schülern eine Lizenz zuweisen (seit 2025 bis zu 250 je Produkt) 
 -> [[Autodesk-Lizenz-Verteilung|Anleitung für Lehrkräfte]].
 
 # Registrierung auf Autodesk via Link in Email 
