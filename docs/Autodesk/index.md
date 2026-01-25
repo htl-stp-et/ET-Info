@@ -12,7 +12,7 @@ Jedem Schüler bzw. jeder Schülerin werden Lizenzen von den Lehrpersonen zugewi
 
 Mit dem Beginn des Schuljahres 2021/22 wurde zudem das Lizenzmodell für Bildungseinrichtungen grundlegend geändert. 
 Jede registierte Lehrkraft kann nun direkt Klassen/Schülern eine Lizenz zuweisen (seit 2025 bis zu 250 je Produkt) 
--> [[Autodesk-Lizenz-Verteilung|Anleitung für Lehrkräfte]].
+-> [Autodeskinformationen für Lehrkräfte](./Autodesk-Lehrer/index.md).
 
 # Registrierung auf Autodesk via Link in Email 
 * Du hast eine Email an deine Schul-Mailadresse erhalten.<br>
