@@ -29,6 +29,7 @@ Start der Bilderstrecke ist:
 Die roten Rechtecke bzw. Markierungen zeigen die klicks an.
 
 ![Autodesk Lehrkraftzugriff](./pictures/Autodesk_Reg_001.jpg "Anmelden als Lehrkraft")
+<img src="./pictures/Autodesk_Reg_001.jpg" width="50%" alt="nmelden als Lehrkraft">
 ![Autodesk allgeminen Produktzugriff anfordern](./pictures/Autodesk_Reg_002.jpg "allg. Produktzugriff")
 ![Autodesk Produktauswahl](./pictures/Autodesk_Reg_003.jpg "Produktauswahl")
 ![Autodesk Abonnementauswahl](./pictures/Autodesk_Reg_004.jpg "Auswahl des Abonnentenvertrages")
