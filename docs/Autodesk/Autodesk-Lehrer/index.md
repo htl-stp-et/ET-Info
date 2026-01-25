@@ -2,7 +2,7 @@
 ## Inhaltsverzeichnis
 
 * [Lizenzmodell](#lizenzmodell)
-* [Registierung](#registierung-bei-autodesk)
+* [Registrierung](#registrierung-bei-autodesk)
 * [Zugriff auf Produkte - Verwaltung von Schülerlizenzen](#zugriff-auf-autodeskprodukte-schülerlizenzen)
 * [Installation](#installation)
 
@@ -16,21 +16,21 @@ beantragt bzw. heruntergeladen werden. <br>
 Dazu muss ein Konto mit der Schulmailadresse (@htlstp.ac.at) angelegt werden. An diese Adresse wird dann auch die Lizenzinformation gebunden welche im Zuge der Installation bzw. beim ersten Start eingegeben werden muss.
 
 Mit dem Beginn des Schuljahres 2021/22 wurde zudem das Lizenzmodell für Bildungseinrichtungen grundlegend geändert. 
-Jede registierte Lehrkraft kann nun direkt Klassen/Schülern eine Lizenz zuweisen (seit 2025 bis zu 250 je Produkt). 
+Jede registrierte Lehrkraft kann nun direkt Klassen/Schülern eine Lizenz zuweisen (seit 2025 bis zu 250 je Produkt). 
 
 Zudem wird ab dem Schuljahr 2027 (2026/27 oder 2027/28?) keine Netzwerklizenz für Bildungseinrichtungen angeboten werden! Auf Schulrechnern muss sich dann auch jede Person mit einem persönlichem Account in der Software anmelden.
 
 
-## Registierung bei Autodesk
-Die folgenden Bilder zeigen die Schritte welche notwendig sind um sich als Lehrkraft der HTBLuVA St. Pölten bei Autodesk zu registieren.
+## Registrierung bei Autodesk
+Die folgenden Bilder zeigen die Schritte, welche notwendig sind, um sich als Lehrkraft der HTBLuVA St. Pölten bei Autodesk zu registrieren.
 Da es in letzter Zeit immer wieder zu div. kleineren Problemen mit Firefox,... gekommen ist, empfehle ich bei auftreten von Ungereimtheiten Chrome zu testen. Da manche der unerwünschten Situationen (cvs nicht erkannt, ...) weniger wurden.
-Auch sollte während der Registierung immer wieder das eMail-Postfach abgerufen werden um eventuelle Bestätigungsmail nicht zu übersehen. 
+Auch sollte während der Registrierung immer wieder das eMail-Postfach abgerufen werden um eventuelle Bestätigungsmails nicht zu übersehen. 
 Start der Bilderstrecke ist:
 [https://www.autodesk.de/education/home](https://www.autodesk.de/education/home)
-Die roten Rechtecke bzw. Markierungen zeigen die klicks an.
+Die roten Rechtecke bzw. Markierungen zeigen die Klicks an.
 
 <!-- ![Autodesk Lehrkraftzugriff](./pictures/Autodesk_Reg_001.jpg "Anmelden als Lehrkraft") -->
-<img src="./pictures/Autodesk_Reg_001.jpg" width="70%" alt="nmelden als Lehrkraft">
+<img src="./pictures/Autodesk_Reg_001.jpg" width="70%" alt="Anmelden als Lehrkraft">
 
 <!-- ![Autodesk allgeminen Produktzugriff anfordern](./pictures/Autodesk_Reg_002.jpg "allg. Produktzugriff") -->
 <img src="./pictures/Autodesk_Reg_002.jpg" width="70%" alt="allg. Produktzugriff">
@@ -38,8 +38,8 @@ Die roten Rechtecke bzw. Markierungen zeigen die klicks an.
 <!-- ![Autodesk Produktauswahl](./pictures/Autodesk_Reg_003.jpg "Produktauswahl") -->
 <img src="./pictures/Autodesk_Reg_003.jpg" width="70%" alt="Produktauswahl">
 
-<!-- ![Autodesk Abonnementauswahl](./pictures/Autodesk_Reg_004.jpg "Auswahl des Abonnentenvertrages") -->
-<img src="./pictures/Autodesk_Reg_004.jpg" width="70%" alt="Auswahl des Abonnentenvertrages">
+<!-- ![Autodesk Abonnementauswahl](./pictures/Autodesk_Reg_004.jpg "Auswahl des Abonnementauswahl") -->
+<img src="./pictures/Autodesk_Reg_004.jpg" width="70%" alt="Auswahl des Abonnementauswahl">
 
 <!-- ![Autodesk Produktauswahl Lehrkraftbestätigung](./pictures/Autodesk_Reg_005.jpg "Lehrkraftbestätigung") -->
 <img src="./pictures/Autodesk_Reg_005.jpg" width="70%" alt="Lehrkraftbestätigung">
@@ -53,7 +53,7 @@ Die roten Rechtecke bzw. Markierungen zeigen die klicks an.
 Wichtig ist hier die Verwendnung der htlstp.ac.at Adresse! 
 Sollte die eMail-Adresse bereits registiert worden sein (möglicherweise bereits vor sehr langer Zeit) kann diese einfach wieder reaktiviert werden. Dazu einfach den Schritten "Passwort vergessen" von Autodesk folgen. Die weiteren Schritte zur Freischaltung - falls notwendig - können danach wieder wie in dieser Anleitung abgeschlossen werden.
 
-In manchen Fällen muss man sich zur vollständigen Ausfüllen der Kontoinformationen nun neu Anmelden (eMail check). Die nächsten vier Bilder zeigen dies, sollte direkt zur Rollenauswahl innerhalb der Bildungseinrichtung gewechselt werden können diese vier Bilder übersprungden werden.
+In manchen Fällen muss man sich zum vollständigen Ausfüllen der Kontoinformationen nun neu anmelden (eMail check). Die nächsten vier Bilder zeigen dies, sollte direkt zur Rollenauswahl innerhalb der Bildungseinrichtung gewechselt werden, können diese vier Bilder übersprungen werden.
 
 <!-- ![Autodesk Neuaccount Kundendaten anmelden](./pictures/Autodesk_Reg_008.jpg "Neuaccount Kundendaten anmelden") -->
 <img src="./pictures/Autodesk_Reg_008.jpg" width="70%" alt="Neuaccount Kundendaten anmelden">
@@ -77,7 +77,7 @@ Rollenwahl innerhalb der Bildungseinrichtung:
 <!-- ![Autodesk Neuaccount Kundendaten Adresse der Bildungeinrichtung](./pictures/Autodesk_Reg_013.jpg "Neuaccount Kundendaten Adresse der Bildungseinrichtung") -->
 <img src="./pictures/Autodesk_Reg_013.jpg" width="70%" alt="Neuaccount Kundendaten Adresse der Bildungseinrichtung">
 
-**AUCHTUNG**
+**ACHTUNG**
 
 <!-- ![Autodesk Neuaccount Kundendaten Bildungseinrichtung](./pictures/Autodesk_Reg_014.jpg "Neuaccount Kundendaten Bildungseinrichtung") -->
 <img src="./pictures/Autodesk_Reg_014.jpg" width="70%" alt="Neuaccount Kundendaten Bildungseinrichtung">
@@ -97,7 +97,7 @@ Rollenwahl innerhalb der Bildungseinrichtung:
 -ToDo-
 
 ## Installation
-Für die Installation von Autodeskprodukten auf privaten Endgeräten mit Administratorrechen können diese entweder direkt von der Homepage bezogen werden (siehe vorheriger Abschnitt) oder bevorzugt das Installationsfile vom ET-EDV sharepoint verwendet werden. Dies ist auch auf den Schulrechnern installiert und somit sind keine Versionsinkompatibilitäten auch bei Schülern zu befürchten.
+Für die Installation von Autodeskprodukten auf privaten Endgeräten mit Administratorrechten können diese entweder direkt von der Homepage bezogen werden (siehe vorheriger Abschnitt) oder bevorzugt das Installationsfile vom ET-EDV sharepoint verwendet werden. Dies ist auch auf den Schulrechnern installiert und somit sind auch keine Versionsinkompatibilitäten bei Schülern zu befürchten.
 [https://htlstp.sharepoint.com/sites/ET-EDV/Software/Autodesk](https://htlstp.sharepoint.com/:f:/r/sites/ET-EDV/Software/Autodesk)
 Aktuell ist hier 
 * AutoCAD
