@@ -2,7 +2,7 @@
 ## Inhaltsverzeichnis
 
 * [Lizenzmodell](#lizenzmodell)
-* [Registrierung]((./Registrierung/index.md))
+* [Registrierung](./Registrierung/index.md)
 * [Zugriff auf Produkte - Verwaltung von Schülerlizenzen](./Lizenzen/index.md)
 * [Installation](#installation)
 
