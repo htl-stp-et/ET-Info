@@ -31,6 +31,7 @@ Start der Bilderstrecke ist:
 Die roten Rechtecke bzw. Markierungen zeigen die Klicks an.
 
 * Anmelden als Lehrkraft
+    
     <!-- ![Autodesk Lehrkraftzugriff](./pictures/Autodesk_Reg_001.jpg "Anmelden als Lehrkraft") -->
     <img src="Autodesk_Reg_001.jpg" width="70%" alt="Anmelden als Lehrkraft">
 
