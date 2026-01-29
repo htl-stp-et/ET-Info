@@ -98,25 +98,30 @@ Rollenwahl innerhalb der Bildungseinrichtung:
 ## Zugriff auf Autodeskprodukte (Schülerlizenzen)
 In diesem Abschnitt wird gezeigt wie weitere Autodeskprodukte für einen Account freigeschaltet und wie für bereits freigeschaltete Produkte Schülerlizenzen verwaltet werrden können.
 * Anmelden bei Autodesk
-<img src="Autodesk_Produktlizenzen_2026_001.jpg" width="70%" alt="Bei Autodesk anmelden">
-<img src="Autodesk_Produktlizenzen_2026_002.jpg" width="70%" alt="Bei Autodesk anmelden eMail">
-<img src="Autodesk_Produktlizenzen_2026_003.jpg" width="70%" alt="Bei Autodesk anmelden Passwort">
-<img src="Autodesk_Produktlizenzen_2026_004.jpg" width="70%" alt="Bei Autodesk anmelden 2-Faktor-Authentifizierung">
+
+    <img src="Autodesk_Produktlizenzen_2026_001.jpg" width="70%" alt="Bei Autodesk anmelden">
+    <img src="Autodesk_Produktlizenzen_2026_002.jpg" width="70%" alt="Bei Autodesk anmelden eMail">
+    <img src="Autodesk_Produktlizenzen_2026_003.jpg" width="70%" alt="Bei Autodesk anmelden Passwort">
+    <img src="Autodesk_Produktlizenzen_2026_004.jpg" width="70%" alt="Bei Autodesk anmelden 2-Faktor-Authentifizierung">
+  
 * Weitere Produkte und Lizenzen werden über das Profil (rechts oben) verwaltet 
-<img src="Autodesk_Produktlizenzen_2026_005.jpg" width="70%" alt="Profil -> Produkte verwalten">
-<img src="Autodesk_Produktlizenzen_2026_006.jpg" width="70%" alt="Produktübersicht Optionen">
+
+    <img src="Autodesk_Produktlizenzen_2026_005.jpg" width="70%" alt="Profil -> Produkte verwalten">
+    <img src="Autodesk_Produktlizenzen_2026_006.jpg" width="70%" alt="Produktübersicht Optionen">
+
 * Schülerlizenzen zuordnen
-<img src="Autodesk_Produktlizenzen_2026_007.jpg" width="70%" alt="Benutzerverwaltung">
-<img src="Autodesk_Produktlizenzen_2026_008.jpg" width="70%" alt="Benutzergruppen">
-<img src="Autodesk_Produktlizenzen_2026_009.jpg" width="70%" alt="Gruppenübersicht / neue Gruppe anlegen">
-<img src="Autodesk_Produktlizenzen_2026_010.jpg" width="70%" alt="Gruppenname vergeben">
-<img src="Autodesk_Produktlizenzen_2026_011.jpg" width="70%" alt="Gruppe - Benutzer zuordnen">
-<img src="Autodesk_Produktlizenzen_2026_012.jpg" width="70%" alt="Gruppe - Benutzerübersicht">
-<img src="Autodesk_Produktlizenzen_2026_013.jpg" width="70%" alt="Gruppe - cvs-Import">
-<img src="Autodesk_Produktlizenzen_2026_014.jpg" width="70%" alt="Gruppe - Import vollständig">
-<img src="Autodesk_Produktlizenzen_2026_015.jpg" width="70%" alt="Gruppe - Benutzerübersicht nach Import">
-<img src="Autodesk_Produktlizenzen_2026_016.jpg" width="70%" alt="Gruppe - Produkte zuordnen">
-<img src="Autodesk_Produktlizenzen_2026_017.jpg" width="70%" alt="Gruppe - Produkte fertig">
+
+    <img src="Autodesk_Produktlizenzen_2026_007.jpg" width="70%" alt="Benutzerverwaltung">
+    <img src="Autodesk_Produktlizenzen_2026_008.jpg" width="70%" alt="Benutzergruppen">
+    <img src="Autodesk_Produktlizenzen_2026_009.jpg" width="70%" alt="Gruppenübersicht / neue Gruppe anlegen">
+    <img src="Autodesk_Produktlizenzen_2026_010.jpg" width="70%" alt="Gruppenname vergeben">
+    <img src="Autodesk_Produktlizenzen_2026_011.jpg" width="70%" alt="Gruppe - Benutzer zuordnen">
+    <img src="Autodesk_Produktlizenzen_2026_012.jpg" width="70%" alt="Gruppe - Benutzerübersicht">
+    <img src="Autodesk_Produktlizenzen_2026_013.jpg" width="70%" alt="Gruppe - cvs-Import">
+    <img src="Autodesk_Produktlizenzen_2026_014.jpg" width="70%" alt="Gruppe - Import vollständig">
+    <img src="Autodesk_Produktlizenzen_2026_015.jpg" width="70%" alt="Gruppe - Benutzerübersicht nach Import">
+    <img src="Autodesk_Produktlizenzen_2026_016.jpg" width="70%" alt="Gruppe - Produkte zuordnen">
+    <img src="Autodesk_Produktlizenzen_2026_017.jpg" width="70%" alt="Gruppe - Produkte fertig">
 
 ## Installation
 Für die Installation von Autodeskprodukten auf privaten Endgeräten mit Administratorrechten können diese entweder direkt von der Homepage bezogen werden (siehe vorheriger Abschnitt) oder bevorzugt das Installationsfile vom ET-EDV sharepoint verwendet werden. Dies ist auch auf den Schulrechnern installiert und somit sind auch keine Versionsinkompatibilitäten bei Schülern zu befürchten.
