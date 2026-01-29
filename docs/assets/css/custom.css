@@ -188,3 +188,8 @@ tbody tr:nth-child(odd) {
         display: none; /* Logo wird ausgeblendet */
     }
 }
+
+img {
+    width: 60%;
+    height: auto;
+}
