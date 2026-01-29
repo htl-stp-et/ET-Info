@@ -190,6 +190,6 @@ tbody tr:nth-child(odd) {
 }
 
 img:not([width]) {
-    width: 40%;
+    width: 70%;
     height: auto;
 }
