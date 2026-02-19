@@ -189,7 +189,7 @@ tbody tr:nth-child(odd) {
     }
 }
 
-img:not([width]) {
-    width: 70%;
+img:not([width]):not([height]) {
+    max-width: 70%;
     height: auto;
 }
