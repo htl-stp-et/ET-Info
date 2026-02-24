@@ -11,7 +11,7 @@ Die roten Rechtecke bzw. Markierungen zeigen die Klicks an.
 * Anmelden als Lehrkraft
     
     <!-- ![Autodesk Lehrkraftzugriff](./pictures/Autodesk_Reg_001.jpg "Anmelden als Lehrkraft") -->
-    <img src="Autodesk_Reg_001.jpg" alt="Anmelden als Lehrkraft" height="1800">
+    <img src="Autodesk_Reg_001.jpg" alt="Anmelden als Lehrkraft">
 
     <!-- ![Autodesk allgeminen Produktzugriff anfordern](./pictures/Autodesk_Reg_002.jpg "allg. Produktzugriff") -->
     <img src="Autodesk_Reg_002.jpg" alt="allg. Produktzugriff">

@@ -5,6 +5,7 @@
   * [Anleitungen für Schüler](./Autodesk-Schueler/index.md)
   * [Anleitungen für Lehrkräfte](./Autodesk-Lehrer/index.md)
   * [Installation von Autodesk Produkten via Web](#installation-von-autodesk-produkten)
+  * [Anleitung zum Einbinden der Vorlagendatei in AutoCAD](AutoCad-Vorlagen/index.md)
 * [Downloads](#downloads)
   * [AutoCad 2026](https://htlstp.sharepoint.com/:f:/r/sites/ET-EDV/Software/Autodesk/AutoCAD%202026%20-%20(DE))
     * [AutoCAD Vorlage](https://htlstp.sharepoint.com/:u:/r/sites/ET-EDV/ETDocs/Vorlagen/AutoCAD/HTLSTP_ET_Vorlage.dwt)
@@ -34,6 +35,7 @@ Jede registierte Lehrkraft kann nun direkt Klassen/Schülern eine Lizenz zuweise
 * [Anleitungen für Schüler](./Autodesk-Schueler/index.md)
 * [Anleitungen für Lehrkräfte](./Autodesk-Lehrer/index.md)
 * [Installation von Autodesk Produkten via Web](#installation-von-autodesk-produkten-via-web)
+* [Anleitung zum Einbinden der Vorlagendatei in AutoCAD](AutoCad-Vorlagen/index.md)
 
 ### Installation von Autodesk Produkten via Web
 
