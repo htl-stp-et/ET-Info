@@ -1,5 +1,6 @@
 # Zugriff auf Autodeskprodukte (Schülerlizenzen)
-In diesem Abschnitt wird gezeigt wie weitere Autodeskprodukte für einen Account freigeschaltet und wie für bereits freigeschaltete Produkte Schülerlizenzen verwaltet werrden können.
+In diesem Abschnitt wird gezeigt wie weitere Autodeskprodukte für einen Account freigeschaltet und wie für bereits freigeschaltete Produkte Schülerlizenzen verwaltet werden können. Da es in der Vergangenheit immer wieder zu Problemen mit Firefox und anderen Browsern gekommen ist (vor allem beim Hochladen von cvs-Datein für Gruppen) wird für diese Anleitung Chrom verwendet (bisher weniger Probleme).
+
 * Anmelden bei Autodesk
 
     <img src="Autodesk_Produktlizenzen_2026_001.jpg" alt="Bei Autodesk anmelden">
