@@ -8,7 +8,7 @@
 ## Download und Einbinden der Inventor-Zeichnungsvorlage
 
 Ein einfacher Weg die Vorlage als Standardvorlage in Inventor eintragen ist wie folgt:
-- Nachdem die [Inventor Vorlage](https://htlstp.sharepoint.com/:u:/r/sites/ET-EDV/ETDocs/Vorlagen/Inventor/HTLSTP_ET.idw "download") (Dateiendung .dwt) heruntergeladen wurde, diese mit einem Doppelklick öffen. Sollte nicht die gewünschte Inventor-Version starten, diese über "Öffen mit..." auswählen.
+- Nachdem die [Inventor Vorlage](https://htlstp.sharepoint.com/:u:/r/sites/ET-EDV/ETDocs/Vorlagen/Inventor/HTLSTP_ET.idw "download") (Dateiendung .dwt) heruntergeladen wurde, diese mit einem Doppelklick öffnen. Sollte nicht die gewünschte Inventor-Version starten, diese über "Öffnen mit..." auswählen.
 - In Inventor "Speichern unter -> Kopie als Vorlage speichern" auswählen. Dadurch wird automatisch ein Verzeichnis geöffnet in welchem Inventor Vorlagen sucht.
 
   <img alt="Vorlage Speichern unter" src="Inventor_001.jpg"/>
@@ -17,12 +17,12 @@ Ein einfacher Weg die Vorlage als Standardvorlage in Inventor eintragen ist wie 
 
   <img alt="Vorlagennamen vergeben" src="Inventor_002.jpg"/>
 
-- Die Nachfrage zum speichern ausserhalb des Projektordners kann mit einem Klick auf "Ja" geschlossen werden.
+- Die Nachfrage zum Speichern außerhalb des Projektordners kann mit einem Klick auf "Ja" geschlossen werden.
 
   <img alt="Projektordner" src="Inventor_003.jpg"/>
 
 - Die noch geöffnete Vorlagendatei kann nun geschlossen werden.
-- Beim Erstellen einer neuen Zeichnungsableileitung (z.B. über "Neu..." auf der Startseite)
+- Beim Erstellen einer neuen Zeichnungsableitung (z.B. über "Neu..." auf der Startseite)
   
   <img alt="Neu mit neuer Vorlage" src="Inventor_004.jpg"/>
   
@@ -40,7 +40,7 @@ Ein einfacher Weg die Vorlage als Standardvorlage in Inventor eintragen ist wie 
 Die Vorlage enthält einen automatisierten Schriftkopf und Rahmen für die Blattformate A4 und A3. Größere Blattformate können verwendet werden, aber es werden keine angepassten Falt- und Rastermarken eingefügt.
 
 Die Daten für den Schriftkopf werden aus den iProperties des Bauteils / der Baugruppe bzw. von den aktuellen Parametern der Zeichnungsableitung übernommen.
-Folgende Werte werden durch das erstellen Zeichnungsableitung bestimmt:
+Folgende Werte werden durch das Erstellen der Zeichnungsableitung bestimmt:
 - Blatt: Gibt automatisch an wie viele Blätter in der Zeichnungsableitung angelegt wurden und in welcher Reihenfolge.
 - Maßstab: Wird beim Einfügen einer Erstansicht gewählt und von der ersten Erstansicht in den Schriftkopf übernommen.
 
