@@ -32,7 +32,7 @@ Ein einfacher Weg die Vorlage als Standardvorlage in Inventor eintragen ist wie 
 
 - Bevor mit der Zeichnungsableitung gestartet werden kann, erscheint eine Lehrkraft-Abfrage für den Schriftkopf. Hier soll das Kürzel der Lehrkraft eingegeben werden, wo die Zeichnung abgegeben wird. Dies ist der einzige Parameter welcher später nicht über iProperties gesteuert/verändert werden kann!
 
-v
+  <img alt="Lehrkraftabfrage" src="Inventor_006.jpg"/>
 
 - Nun kann wie gewohnt eine Zeichnungsableitung gemacht werden. Der Schriftkopf wird mit den iProperties-Daten des ersten Bauteils gefüllt (eventuell erst nach erfolgreichem Speichern vollständig).
 
