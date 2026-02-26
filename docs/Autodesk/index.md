@@ -6,6 +6,7 @@
   * [Anleitungen für Lehrkräfte](./Autodesk-Lehrer/index.md)
   * [Installation von Autodesk Produkten via Web](#installation-von-autodesk-produkten)
   * [Anleitung zum Einbinden/Verwendung der Vorlagendatei in AutoCAD](AutoCad-Vorlagen/index.md)
+  * [Anleitung zum Einbinden/Verwendung der Vorlagendatei in Inventor](Inventor-Vorlagen/index.md)
 * [Downloads](#downloads)
   * [AutoCad 2026](https://htlstp.sharepoint.com/:f:/r/sites/ET-EDV/Software/Autodesk/AutoCAD%202026%20-%20(DE))
     * [AutoCAD Vorlage](https://htlstp.sharepoint.com/:u:/r/sites/ET-EDV/ETDocs/Vorlagen/AutoCAD/HTLSTP_ET_Vorlage.dwt)
@@ -36,6 +37,7 @@ Jede registierte Lehrkraft kann nun direkt Klassen/Schülern eine Lizenz zuweise
 * [Anleitungen für Lehrkräfte](./Autodesk-Lehrer/index.md)
 * [Installation von Autodesk Produkten via Web](#installation-von-autodesk-produkten-via-web)
 * [Anleitung zum Einbinden/Verwendung der Vorlagendatei in AutoCAD](AutoCad-Vorlagen/index.md)
+* [Anleitung zum Einbinden/Verwendung der Vorlagendatei in Inventor](Inventor-Vorlagen/index.md)
 
 ### Installation von Autodesk Produkten via Web
 
@@ -49,22 +51,22 @@ Hier siehst du alle für die freigegebene Produkte, solltest du keine, oder die 
 Wähle vor dem Produktdownload die richtige Sprache aus. Das lässt sich nachträglich nicht ändern.<br>![img_7.png](Autodesk-Schueler/img_7.png)>
 
 ## Downloads
-Die Produktversionen welche auch auf den Schulrechnen installiert sind können direkt über sharepoint heruntergeladen werden:
+Die Produktversionen, welche auch auf den Schulrechnern installiert sind, können direkt über sharepoint heruntergeladen werden:
 * [AutoCad 2026](https://htlstp.sharepoint.com/:f:/r/sites/ET-EDV/Software/Autodesk/AutoCAD%202026%20-%20(DE))
 * [Inventor 2026](https://htlstp.sharepoint.com/:f:/r/sites/ET-EDV/Software/Autodesk/Inventor%20Professional%202026%20-%20(DE))
 * [Revit 2026](https://htlstp.sharepoint.com/:f:/r/sites/ET-EDV/Software/Autodesk/Revit%202026%20-%20(DE))
 
-Zudem gibt es Vorlagen mit entsprechenden Schriftkopf für:
+Zudem gibt es Vorlagen mit ET-Schriftkopf für:
 * [AutoCAD Vorlage](https://htlstp.sharepoint.com/:u:/r/sites/ET-EDV/ETDocs/Vorlagen/AutoCAD/HTLSTP_ET_Vorlage.dwt)
 * [Inventor Vorlage](https://htlstp.sharepoint.com/:u:/r/sites/ET-EDV/ETDocs/Vorlagen/Inventor/HTLSTP_ET.idw)
 
 ## spezielle Produkt Informationen
 ### Inventor
 
-Inventor ist im Gegensatz zu AutoCAD ein vollständiges 3D-CAD-Programm welches volumenorientiert arbeitet. 
-Zudem wird in Inventor automatisch parametrisch gearbeitet. Das heist, wenn eine Bemassung einer Skizze geändert wird, dass 
+Inventor ist im Gegensatz zu AutoCAD, ein vollständiges 3D-CAD-Programm welches volumenorientiert arbeitet. 
+Zudem wird in Inventor automatisch parametrisch gearbeitet. Das heist, wenn eine Bemaßung einer Skizze geändert wird, dass 
 die Skizze entsprechend geändert wird und in folge auch der 3D-Körper nachgezogen wird bzw. auch alle auf diesen Parameter bezogenen größen. 
-Auch kann mit Inventor eine Zusammenstellung mehrer 3D-Objekte erfolgen bzw. eine 2D-Ableitung von 3D-Objekten als Werkstattzeichnung. <br>
+Auch kann mit Inventor eine Zusammenstellung mehrerer 3D-Objekte erfolgen bzw. eine 2D-Ableitung von 3D-Objekten als Werkstattzeichnung. <br>
 
 Einen kurzen Einblick gibt das folgene YouTube-Video [YouTube Inventor Skizze](https://www.youtube.com/watch?v=Xtud7LiM1pY)
 
