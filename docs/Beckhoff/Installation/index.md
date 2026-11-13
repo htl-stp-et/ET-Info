@@ -17,7 +17,7 @@ Dabei wird (wenn nicht bereits im Browser ein Office-Login aktiv ist) zum Login 
 
 <img src="TwinCAT_install_002.jpg" alt="HTLSTP Sharepoint login">
 
-Nun wir der Download angezeigt und der INstaller kann lokal abgespeichert werden:
+Nun wird der Download angezeigt und der INstaller kann lokal abgespeichert werden:
 
 <img src="TwinCAT_install_004.jpg" alt="Installer abspeichern">
 
@@ -33,7 +33,14 @@ und Registriern auswählen:
 
 oder direkt den Link [myBeckhoff](https://www.beckhoff.com/de-at/mybeckhoff-registrierung/index.aspx) nutzen.
 
-Jetzt noch mindestens die Pflichtfelder ausfüllen:
+Jetzt noch mindestens die Pflichtfelder ausfüllen, dabei einhalten:
+* Unternehmen: HTL St. Pölten
+* Abteilung: Elektrotechnik
+* Straße, Hausnummer: Waldstraße, 3
+* Ort: St. Pölten
+* Bundesland: NÖ
+* Land oder Region: Österreich
+als eMail sollte die Schulemailadresse verwendet werden.
 
 <img src="TwinCAT_install_013.jpg" alt="Beckhoff Registrierung">
 
@@ -89,6 +96,18 @@ Als Entwicklungsumgebung nutzen wir in der Schule die Standardumgebeung 4026.26.
 <img src="TwinCAT_install_020.jpg" alt="Beckhoff Packagemanger TwinCAT Standard">
 
 Nach der Hinweismeldung "Workload selected",
+Nun oder auch später, können auf diesem Weg noch weitere Packages zur Installation hinzugefügt werden.
+Lt. Beckhoff sollten auf jeden Fall folgende Pakete installiert werden:
+- TwinCAT Remote Manager – Engineering
+- TwinCAT XAE Shell 64 bit – Engineering
+- TC1000 TwinCAT ADS – Runtime
+- TC170x TwinCAT 3 Usermode Runtime – Runtime
+- TE1300 TwinCAT 3 Scope View Professional - Engineering
+- TF1800 TwinCAT 3 PLC Hmi – Runtime
+- TF1810 TwinCAT 3 PLC Hmi Web – Runtime
+Für die Anbindung an FactoryIO sind folgende Packages notwendig:
+- TF6100 TwinCAT 3 OPC UA Server – Engineering und Runtime
+- TF6100 TwinCAT 3 OPC UA Configurator – Engineerin
 
 <img src="TwinCAT_install_021.jpg" alt="Beckhoff Packagemanger TwinCAT Standard ausgewählt">
 
